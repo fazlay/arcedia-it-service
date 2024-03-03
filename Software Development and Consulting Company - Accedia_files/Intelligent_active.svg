@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.076" height="53.313" viewBox="0 0 59.076 53.313">
+  <g id="Intelligent_active" transform="translate(1.5 11.5)">
+    <g id="Group_454" data-name="Group 454" transform="translate(0 -10)">
+      <g id="Group_437" data-name="Group 437" transform="translate(7.249 14.173)">
+        <line id="Line_191" data-name="Line 191" x2="5.504" y2="2.876" stroke-width="3" stroke="#900" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <line id="Line_192" data-name="Line 192" y1="3.231" x2="5.504" transform="translate(0 19.82)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Group_438" data-name="Group 438" transform="translate(43.323 14.173)">
+        <line id="Line_193" data-name="Line 193" x1="5.504" y2="2.876" stroke-width="3" stroke="#900" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <line id="Line_194" data-name="Line 194" x1="5.504" y1="3.231" transform="translate(0 19.82)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <path id="Path_331" data-name="Path 331" d="M65.251,854.93V836.656l-6.034-3.262-12.354,7.257v7.094l-7.258,4.24v14.107l7.258,4.4v6.116l12.354,7.094,6.034-3.425v-18.1" transform="translate(-39.606 -833.394)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_332" data-name="Path 332" d="M93.872,862.185v18.1l6.034,3.425,12.354-7.094V870.5l7.257-4.4V851.986l-7.257-4.24v-7.094l-12.354-7.257-6.034,3.262V854.93" transform="translate(-63.442 -833.394)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_455" data-name="Group 455" transform="translate(10.919 13.372)">
+      <line id="Line_195" data-name="Line 195" x2="22.767" transform="translate(5.645 2.884)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <ellipse id="Ellipse_323" data-name="Ellipse 323" cx="2.884" cy="2.884" rx="2.884" ry="2.884" transform="translate(28.471 0)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <ellipse id="Ellipse_324" data-name="Ellipse 324" cx="2.884" cy="2.884" rx="2.884" ry="2.884" transform="translate(0 0)" fill="none" stroke="#900" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

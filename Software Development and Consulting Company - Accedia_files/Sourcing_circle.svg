@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="383.605" height="383.605" viewBox="0 0 383.605 383.605">
+  <g id="Sourcing_circle" transform="translate(-540 -1089)">
+    <g id="Consulting" transform="translate(127 971)">
+      <g id="Group_1018" data-name="Group 1018" transform="translate(413 118)">
+        <g id="Group_758" data-name="Group 758" transform="translate(0 0)">
+          <g id="Group_447" data-name="Group 447">
+            <g id="Call_to_Action" data-name="Call to Action">
+              <path id="Path_337" data-name="Path 337" d="M191.8,0c105.93,0,191.8,85.873,191.8,191.8s-85.873,191.8-191.8,191.8S0,297.733,0,191.8,85.873,0,191.8,0Z" transform="translate(0 0)" fill="#c00"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Sourcing" transform="translate(436 -1206.087)">
+      <g id="Group_764" data-name="Group 764" transform="translate(206.999 2398.087)">
+        <path id="Path_309" data-name="Path 309" d="M564.673,440.87v28.809L577,469.672v.011a15.743,15.743,0,0,1,0,31.485v.005h-.048c-.016,0-.032.005-.05.005s-.032-.005-.048-.005l-12.177,0v28.8" transform="translate(-475.54 -440.715)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_310" data-name="Path 310" d="M576.977,579.9V551.089l-12.323.007v-.011a15.743,15.743,0,0,1,0-31.485v-.005h.048c.016,0,.032-.005.05-.005s.032.005.05.005l12.175,0V490.788" transform="translate(-487.837 -401.555)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_311" data-name="Path 311" d="M653.776,490.8H624.967l.007,12.323h-.011a15.743,15.743,0,0,1-31.485,0h-.005v-.048c0-.016-.005-.032-.005-.05s.005-.032.005-.05l0-12.175H564.666" transform="translate(-475.545 -401.549)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_312" data-name="Path 312" d="M514.748,503.1h28.809l-.007-12.324h.011a15.743,15.743,0,0,1,31.485,0h.005v.048c0,.016.005.032.005.05s-.005.032-.005.05l0,12.175h28.8" transform="translate(-514.705 -413.846)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_313" data-name="Path 313" d="M603.948,440.783h0a89.224,89.224,0,1,0,89.224,89.224h0V440.783Z" transform="translate(-514.724 -440.783)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
